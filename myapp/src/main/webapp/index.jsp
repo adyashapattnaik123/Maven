@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello Everyone.This app is running on <%=application.getServerInfo() %>
+Hello Everyone.
+This app is running on <%=application.getServerInfo() %>
 </body>
 </html>
